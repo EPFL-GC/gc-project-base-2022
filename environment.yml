@@ -1,0 +1,14 @@
+name: make_it_stand
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - pip:
+    - meshio
+    - tetgen
+  # - igl
+  - matplotlib
+  - jupyterlab
+  - pythreejs
+  - matplotlib
+  - pyvista
