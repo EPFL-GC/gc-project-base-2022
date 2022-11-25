@@ -1,4 +1,7 @@
 # Python Dependencies
+
+If you are using an M1 Mac, please comment the line containing "-igl" in your `environment.yml` file.
+ 
 To get started, create the `make_it_stand` conda environment using the `environment.yml` file:
 ```
 conda env create -f environment.yml

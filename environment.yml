@@ -6,7 +6,7 @@ dependencies:
   - pip:
     - meshio
     - tetgen
-  # - igl
+  - igl
   - matplotlib
   - jupyterlab
   - pythreejs
